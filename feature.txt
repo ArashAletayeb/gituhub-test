@@ -1,1 +1,2 @@
-feature file was added to feature branch
+feature file was added to feature branch.
+I want to test fetch origin.
